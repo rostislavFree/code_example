@@ -1,0 +1,12 @@
+@import 'assets/styles/mixins';
+
+.marketTypeItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+  border: 1px solid $gray-3;
+  padding: 10px;
+  margin-bottom: 4px;
+  background: $gray-1;
+}
